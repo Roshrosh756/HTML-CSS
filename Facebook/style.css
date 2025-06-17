@@ -1,0 +1,29 @@
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: aliceblue;
+
+}
+.nav{
+    background-color: blue;
+    display: flex;
+    justify-content: flex-end;
+    width:100%;
+    padding: 1rem 2rem;
+}
+.Create{
+    background-color: rgb(116, 205, 27);
+    color: white;
+}
+
+.RegisterForm{
+    
+    box-sizing: content-box;
+text-align: left;
+
+}
+.Birthdate Info{
+    box-sizing: border-box;
+    text-align: left;
+}
